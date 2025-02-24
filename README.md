@@ -1,23 +1,29 @@
 # 👋 Hi, I'm Iftekharul Islam  
-🔹 **Cybersecurity Analyst | Cloud Security Enthusiast | Wireshark Expert**  
-🔹 Passionate about **threat detection, network security, and cloud security solutions**.  
+🔹 **Cybersecurity & Risk Management | Cloud Security & Compliance | IT Governance**  
+🔹 Passionate about **security operations, cloud security frameworks, and risk-based security strategies**.  
 
 ## 📌 **GitHub Projects**
 ### 🔹 [AWS S3 Security Audit](https://github.com/iftekharulIT/AWS-S3-Security-Audit)  
-   - Implemented **S3 security policies, IAM access controls, and public access restrictions**  
-   - Configured **AWS CloudTrail logging** for security monitoring  
-   - Developed a **Python automation script** for S3 security audits  
+   - **Designed & implemented security policies** to ensure **compliance with cloud security best practices**  
+   - Configured **AWS CloudTrail logging** for real-time security event monitoring  
+   - Developed a **Python automation script** to assess misconfigurations and enforce compliance  
 
 ### 🔹 [Wireshark Network Traffic Analysis](https://github.com/iftekharulIT/Wireshark-Network-Analysis)  
-   - Captured & analyzed **24,000+ network packets** for **security vulnerabilities**  
-   - Identified **unencrypted HTTP traffic, DNS tracking, and protocol anomalies**  
-   - Applied **real-world cybersecurity techniques**  
+   - Captured & analyzed **24,000+ network packets** to detect **security anomalies**  
+   - Identified **unencrypted HTTP traffic, DNS tracking, and protocol vulnerabilities**  
+   - Applied **risk assessment techniques** to evaluate potential threats  
 
-## 🔥 **Skills & Interests**
-- 🛡️ **Cybersecurity**: Threat Detection, Wireshark, Packet Analysis  
-- ☁️ **Cloud Security**: AWS Security, IAM, S3 Policies, CloudTrail, SIEM Integration  
-- 📊 **SIEM & Monitoring**: Splunk, ELK Stack, Log Analysis  
-- 🔍 **Threat Hunting**: Network Forensics, Intrusion Detection  
+### 🔹 [CyberTrap-Honeypot-Splunk](https://github.com/iftekharulIT/CyberTrap-Honeypot-Splunk)  
+   - **Deployed a Cowrie Honeypot** to simulate SSH service & capture unauthorized access attempts  
+   - **Transformed security logs** into structured formats for **Splunk-based analysis & reporting**  
+   - **Designed security dashboards** to monitor attack trends and support decision-making  
+
+## 🔥 **Skills & Expertise**
+- 🛡️ **Cybersecurity & Risk Management**: Threat Detection, Network Security, Incident Response  
+- ☁️ **Cloud Security & Compliance**: AWS Security, IAM, S3 Policies, CloudTrail, SIEM Integration  
+- 📊 **IT Governance & Monitoring**: Compliance Audits, Security Controls, Regulatory Frameworks  
+- 🔍 **Risk Assessment & Analysis**: Security Metrics, Risk-Based Decision-Making, Threat Hunting  
+- 🏗️ **Process Optimization & Security Oversight**: Risk Reporting, Compliance Implementation  
 
 ## 📫 **Contact Me**  
 📧 Email: [Iftekharul.islamIT@gmail.com](mailto:Iftekharul.islamIT@gmail.com)  
